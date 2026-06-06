@@ -1,0 +1,10 @@
+{
+  "repo_name": "beach-dm-cuxhaven",
+  "description": "Beach-DM Cuxhaven: Independent guide and resource site about Beach Dm Cuxhaven.",
+  "visibility": "public",
+  "branch": "main",
+  "commit_message": "Initial Beach-DM Cuxhaven deployment",
+  "pages_source_path": "/",
+  "on_repo_exists": "suffix",
+  "open_live_url": true
+}
